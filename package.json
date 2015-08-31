@@ -1,0 +1,16 @@
+{
+  "name": "foundation",
+  "version": "0.0.1",
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-compass": "~0.7.0",
+    "grunt-contrib-uglify": "~0.4.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "matchdep": "~0.1.2",
+    "moment": "^2.10.6"
+  },
+  "description": "a development project to test SASS and Compass",
+  "main": "gruntfile.js",
+  "author": "Tom Grant",
+  "license": "ISC"
+}

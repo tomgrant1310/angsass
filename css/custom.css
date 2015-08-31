@@ -1,0 +1,19 @@
+/* line 1, ../sass/custom.scss */
+body {
+  background-color: #007095;
+}
+
+/* line 6, ../sass/custom.scss */
+.artistlist {
+  background-color: #EEE8D5;
+  width: 50%;
+  border-radius: 0 0 20px 20px;
+  opacity: .95;
+  z-index: 10;
+}
+
+/* line 14, ../sass/custom.scss */
+.artist {
+  list-style-type: none;
+  text-decoration: none;
+}
